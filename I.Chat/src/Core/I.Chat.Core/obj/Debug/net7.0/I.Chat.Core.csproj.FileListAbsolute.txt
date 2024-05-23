@@ -1,0 +1,16 @@
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\Core\I.Chat.Core\obj\Debug\net7.0\I.Chat.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\Core\I.Chat.Core\obj\Debug\net7.0\I.Chat.Core.AssemblyInfoInputs.cache
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\Core\I.Chat.Core\obj\Debug\net7.0\I.Chat.Core.AssemblyInfo.cs
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\Core\I.Chat.Core\obj\Debug\net7.0\I.Chat.Core.csproj.CoreCompileInputs.cache
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\Core\I.Chat.Core\bin\Debug\net7.0\I.Chat.Core.deps.json
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\Core\I.Chat.Core\bin\Debug\net7.0\I.Chat.Core.dll
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\Core\I.Chat.Core\bin\Debug\net7.0\I.Chat.Core.pdb
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\Core\I.Chat.Core\obj\Debug\net7.0\I.Chat.Core.dll
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\Core\I.Chat.Core\obj\Debug\net7.0\refint\I.Chat.Core.dll
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\Core\I.Chat.Core\obj\Debug\net7.0\I.Chat.Core.pdb
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\Core\I.Chat.Core\obj\Debug\net7.0\ref\I.Chat.Core.dll
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\Core\I.Chat.Core\obj\Debug\net7.0\I.Chat.Core.csproj.AssemblyReference.cache
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\Core\I.Chat.Core\bin\Debug\net7.0\I.Chat.Configure.Models.dll
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\Core\I.Chat.Core\bin\Debug\net7.0\I.Chat.Configure.Models.pdb
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\Core\I.Chat.Core\bin\Debug\net7.0\appconfigure.core.json
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\Core\I.Chat.Core\obj\Debug\net7.0\I.Chat.C.EDB693AD.Up2Date

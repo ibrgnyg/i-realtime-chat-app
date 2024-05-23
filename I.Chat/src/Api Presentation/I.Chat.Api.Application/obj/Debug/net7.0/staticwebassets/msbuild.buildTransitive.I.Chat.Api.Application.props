@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\I.Chat.Api.Application.props" />
+</Project>

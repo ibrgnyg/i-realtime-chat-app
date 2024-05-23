@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\I.Chat.Core\I.Chat.Core.csproj" />
+    <ProjectReference Include="..\..\Domain\I.Chat.Domain\I.Chat.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appconfigure.business.services.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

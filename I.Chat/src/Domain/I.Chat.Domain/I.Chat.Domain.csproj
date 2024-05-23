@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\ConfigureModels\I.Chat.Configure.Models\I.Chat.Configure.Models.csproj" />
+    <ProjectReference Include="..\..\Core\I.Chat.Core\I.Chat.Core.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\ConfigureModels\I.Chat.Configure.Models\bin\Debug\net7.0\I.Chat.Configure.Models.deps.json
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\ConfigureModels\I.Chat.Configure.Models\bin\Debug\net7.0\I.Chat.Configure.Models.dll
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\ConfigureModels\I.Chat.Configure.Models\bin\Debug\net7.0\I.Chat.Configure.Models.pdb
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\ConfigureModels\I.Chat.Configure.Models\obj\Debug\net7.0\I.Chat.Configure.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\ConfigureModels\I.Chat.Configure.Models\obj\Debug\net7.0\I.Chat.Configure.Models.AssemblyInfoInputs.cache
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\ConfigureModels\I.Chat.Configure.Models\obj\Debug\net7.0\I.Chat.Configure.Models.AssemblyInfo.cs
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\ConfigureModels\I.Chat.Configure.Models\obj\Debug\net7.0\I.Chat.Configure.Models.csproj.CoreCompileInputs.cache
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\ConfigureModels\I.Chat.Configure.Models\obj\Debug\net7.0\I.Chat.Configure.Models.dll
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\ConfigureModels\I.Chat.Configure.Models\obj\Debug\net7.0\refint\I.Chat.Configure.Models.dll
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\ConfigureModels\I.Chat.Configure.Models\obj\Debug\net7.0\I.Chat.Configure.Models.pdb
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\ConfigureModels\I.Chat.Configure.Models\obj\Debug\net7.0\ref\I.Chat.Configure.Models.dll
+C:\Users\rasko\source\repos\wb_projeler\I.Chat\src\ConfigureModels\I.Chat.Configure.Models\obj\Debug\net7.0\I.Chat.Configure.Models.csproj.AssemblyReference.cache

@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rasko\\source\\repos\\wb_projeler\\I.Chat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB12850-3197-4355-A55B-9000D48B408C}|src\\Services\\I.Chat.Busniess.Services\\I.Chat.Busniess.Services.csproj|c:\\users\\rasko\\source\\repos\\wb_projeler\\i.chat\\src\\services\\i.chat.busniess.services\\services\\messagesendservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB12850-3197-4355-A55B-9000D48B408C}|src\\Services\\I.Chat.Busniess.Services\\I.Chat.Busniess.Services.csproj|solutionrelative:src\\services\\i.chat.busniess.services\\services\\messagesendservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8F3829-A562-48EA-A1DA-865425D26243}|src\\ConfigureModels\\I.Chat.Configure.Models\\I.Chat.Configure.Models.csproj|c:\\users\\rasko\\source\\repos\\wb_projeler\\i.chat\\src\\configuremodels\\i.chat.configure.models\\dtos\\dtomessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8F3829-A562-48EA-A1DA-865425D26243}|src\\ConfigureModels\\I.Chat.Configure.Models\\I.Chat.Configure.Models.csproj|solutionrelative:src\\configuremodels\\i.chat.configure.models\\dtos\\dtomessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1DB7AF-FA53-4429-8C43-1D21689A27C0}|src\\Api\\I.Chat.Api\\I.Chat.Api.csproj|c:\\users\\rasko\\source\\repos\\wb_projeler\\i.chat\\src\\api\\i.chat.api\\hubs\\messagehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1DB7AF-FA53-4429-8C43-1D21689A27C0}|src\\Api\\I.Chat.Api\\I.Chat.Api.csproj|solutionrelative:src\\api\\i.chat.api\\hubs\\messagehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageSendService.cs",
+              "DocumentMoniker": "C:\\Users\\rasko\\source\\repos\\wb_projeler\\I.Chat\\src\\Services\\I.Chat.Busniess.Services\\Services\\MessageSendService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\I.Chat.Busniess.Services\\Services\\MessageSendService.cs",
+              "ToolTip": "C:\\Users\\rasko\\source\\repos\\wb_projeler\\I.Chat\\src\\Services\\I.Chat.Busniess.Services\\Services\\MessageSendService.cs",
+              "RelativeToolTip": "src\\Services\\I.Chat.Busniess.Services\\Services\\MessageSendService.cs",
+              "ViewState": "AQIAACEBAAAAAAAAAAD4vzwBAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:39:39.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DTOMessages.cs",
+              "DocumentMoniker": "C:\\Users\\rasko\\source\\repos\\wb_projeler\\I.Chat\\src\\ConfigureModels\\I.Chat.Configure.Models\\DTOs\\DTOMessages.cs",
+              "RelativeDocumentMoniker": "src\\ConfigureModels\\I.Chat.Configure.Models\\DTOs\\DTOMessages.cs",
+              "ToolTip": "C:\\Users\\rasko\\source\\repos\\wb_projeler\\I.Chat\\src\\ConfigureModels\\I.Chat.Configure.Models\\DTOs\\DTOMessages.cs",
+              "RelativeToolTip": "src\\ConfigureModels\\I.Chat.Configure.Models\\DTOs\\DTOMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:39:28.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageHub.cs",
+              "DocumentMoniker": "C:\\Users\\rasko\\source\\repos\\wb_projeler\\I.Chat\\src\\Api\\I.Chat.Api\\Hubs\\MessageHub.cs",
+              "RelativeDocumentMoniker": "src\\Api\\I.Chat.Api\\Hubs\\MessageHub.cs",
+              "ToolTip": "C:\\Users\\rasko\\source\\repos\\wb_projeler\\I.Chat\\src\\Api\\I.Chat.Api\\Hubs\\MessageHub.cs",
+              "RelativeToolTip": "src\\Api\\I.Chat.Api\\Hubs\\MessageHub.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAwwEsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:39:21.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

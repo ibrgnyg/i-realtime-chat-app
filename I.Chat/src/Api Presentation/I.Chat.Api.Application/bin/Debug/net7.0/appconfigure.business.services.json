@@ -1,0 +1,16 @@
+{
+  "AppSettings": {
+    "TokenKey": "hpFG0IXEmjrAj7Se5hybaB1ePPnexaLR/Wl9MuHyN6T7qwnyAg1IFpTigag?W*py7@z$I=BTW|E5Mlir",
+    "Issuer": "I.Chatt.App",
+    "Audience": "I.Chatt.App"
+  },
+
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ]
+}

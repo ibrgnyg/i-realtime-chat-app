@@ -1,0 +1,38 @@
+{
+  "name": "i.chat.client",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --fix --ignore-path .gitignore"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.9.9",
+    "@mdi/font": "7.0.96",
+    "@vue/apollo-composable": "^4.0.2",
+    "core-js": "^3.29.0",
+    "graphql": "^16.8.1",
+    "graphql-tag": "^2.12.6",
+    "roboto-fontface": "*",
+    "vue": "^3.2.0",
+    "vue-router": "^4.0.0",
+    "vuetify": "^3.0.0",
+    "vue-toast-notification": "^3.1.1",
+    "vuex": "^4.0.2",
+    "vuex-persistedstate": "^4.1.0",
+    "moment": "^2.30.1",
+    "secure-ls": "^1.2.6",
+    "@dreamonkey/vue-signalr": "^1.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "eslint": "^8.37.0",
+    "eslint-plugin-vue": "^9.3.0",
+    "sass": "^1.60.0",
+    "unplugin-fonts": "^1.0.3",
+    "vite": "^4.5.3",
+    "vite-plugin-vuetify": "^1.0.0"
+  }
+}
