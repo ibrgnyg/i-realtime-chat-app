@@ -20,10 +20,20 @@
 - [Vue Toast Message](https://github.com/ankurk91/vue-toast-notification)
 
 # Screen shoots
-![GIF Açıklaması](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![GIF](https://raw.githubusercontent.com/ibrgnyg/i-realtime-chat-app/main/I.Chat/contentmd/gf.gif)
 
-![screenshot](https://t3.ftcdn.net/jpg/05/17/82/24/360_F_517822417_cW17ljcETUNX8BylhlNesxWyhxHXO3Nc.jpg?raw=true)
+![screenshot](https://raw.githubusercontent.com/ibrgnyg/i-realtime-chat-app/main/I.Chat/contentmd/chl1query.png)
 
-![screenshot](https://t3.ftcdn.net/jpg/05/17/82/24/360_F_517822417_cW17ljcETUNX8BylhlNesxWyhxHXO3Nc.jpg?raw=true)
+![screenshot](https://raw.githubusercontent.com/ibrgnyg/i-realtime-chat-app/main/I.Chat/contentmd/chl2query.png)
 
-![screenshot](https://t3.ftcdn.net/jpg/05/17/82/24/360_F_517822417_cW17ljcETUNX8BylhlNesxWyhxHXO3Nc.jpg?raw=true)
+![screenshot](https://raw.githubusercontent.com/ibrgnyg/i-realtime-chat-app/main/I.Chat/contentmd/Screenshot_2.png)
+
+![screenshot](https://raw.githubusercontent.com/ibrgnyg/i-realtime-chat-app/main/I.Chat/contentmd/Screenshot_3.png)
+
+![screenshot](https://raw.githubusercontent.com/ibrgnyg/i-realtime-chat-app/main/I.Chat/contentmd/Screenshot_4.png)
+
+![screenshot](https://raw.githubusercontent.com/ibrgnyg/i-realtime-chat-app/main/I.Chat/contentmd/Screenshot_1.png)
+
+![screenshot](https://raw.githubusercontent.com/ibrgnyg/i-realtime-chat-app/main/I.Chat/contentmd/Screenshot_5.png)
+
+
